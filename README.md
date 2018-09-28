@@ -7,8 +7,11 @@ ________________________________________________________________________
 this version is Arabic.
 
 to use the app you shlud do this follwing tips in your recording app
+
 1-make the hotkeys ctrl+o to start recod and ctrl+p to stop recording
+
 2-make the defualt name is record and override to avoid errors
+
 3-make sure the path for recording is the same with this tools
 _________________________________________________________________________
 
