@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "y01", "y01\y01.csproj", "{6C2C1BFA-156F-4D7C-8F52-DC6B73DB692A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "YazedRecorderSetup", "YazedRecorderSetup\YazedRecorderSetup.vdproj", "{BBD15D99-6086-4576-B6A1-B093C66C7630}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C2C1BFA-156F-4D7C-8F52-DC6B73DB692A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C2C1BFA-156F-4D7C-8F52-DC6B73DB692A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C2C1BFA-156F-4D7C-8F52-DC6B73DB692A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C2C1BFA-156F-4D7C-8F52-DC6B73DB692A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBD15D99-6086-4576-B6A1-B093C66C7630}.Debug|Any CPU.ActiveCfg = Debug
+		{BBD15D99-6086-4576-B6A1-B093C66C7630}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1492BE77-B3F9-48DB-92F1-DE61D070F3C7}
+	EndGlobalSection
+EndGlobal
